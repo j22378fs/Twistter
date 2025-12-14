@@ -40,7 +40,7 @@ export default function App() {
   rel="noopener noreferrer"
   className="text-sky-600 underline mb-6 inline-block"
 >
-  ▶ Googleフォームからも投稿できます
+  ▶ Googleフォームのアンケートにご協力ください
 </a>
 
 
