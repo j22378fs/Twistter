@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-// あなたのGitHub情報（もうTwistterになってるからOK）
+// 私のGitHub情報
 const repoOwner = "j22378fs";
 const repoName = "Twistter";
 
@@ -30,9 +30,9 @@ export default function App() {
   return (
     <div className="min-h-screen bg-slate-100 p-6">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-3xl font-bold mb-2">Twistter</h1>
+        <h1 className="text-3xl font-bold mb-2">卒論制作SNS中継サイト"Twistter"</h1>
         <p className="text-gray-600 mb-6">
-          TwitterのIDと一言を投稿して、みんなのプロフィールを見よう
+          TwitterのIDと一言を投稿して、友達を探そう
         </p>
 
         {/* 投稿エリア */}
@@ -83,7 +83,7 @@ export default function App() {
                       ""
                     )}`}
                     alt=""
-                    className="w-12 h-12 rounded-full"
+                    className="w-6 h-6 rounded-full"
                   />
                   <div>
                     <div className="font-medium">{p.name || p.twitter}</div>
