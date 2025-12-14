@@ -34,6 +34,14 @@ export default function App() {
         <p className="text-gray-600 mb-6">
           TwitterのIDと一言を投稿して、友達を探そう
         </p>
+<a
+  href="https://forms.gle/https://docs.google.com/forms/d/1Jy3949v9WOTwGJmg9Vu5oUJPuglckM7i5AU6cO06V3g/viewform?pli=1&chromeless=1&pli=1&edit_requested=true"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-sky-600 underline mb-6 inline-block"
+>
+  ▶ Googleフォームのアンケートにご協力ください
+</a>
 
         {/* 投稿エリア */}
         <div className="bg-white p-4 rounded-xl shadow mb-8">
