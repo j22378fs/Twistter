@@ -35,12 +35,22 @@ export default function App() {
           TwitterのIDと一言を投稿して、友達を探そう
         </p>
 <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLScCoDp4LxfWJITNWAWoc3TpbENMy1-QM2j9pn1jhptO7PiwFA/viewform?usp=sharing&ouid=106565582191879265986"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-sky-600 underline mb-6 inline-block"
+>
+  ▶ Googleフォームのアンケートにご協力お願いします
+</a>
+
+        
+<a
   href="https://docs.google.com/forms/d/1Jy3949v9WOTwGJmg9Vu5oUJPuglckM7i5AU6cO06V3g/viewform?chromeless=1&edit_requested=true"
   target="_blank"
   rel="noopener noreferrer"
   className="text-sky-600 underline mb-6 inline-block"
 >
-  ▶ Googleフォームのアンケートにご協力ください
+  ▶ よろしければ使用感についてアンケートにご協力ください
 </a>
 
 
