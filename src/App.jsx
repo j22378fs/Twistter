@@ -83,7 +83,7 @@ export default function App() {
                       ""
                     )}`}
                     alt=""
-                    className="w-4 h-4 rounded-full"
+                    className="w-4 h-10 rounded-full"
                   />
                   <div>
                     <div className="font-medium">{p.name || p.twitter}</div>
